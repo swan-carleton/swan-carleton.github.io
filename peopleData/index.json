@@ -1,0 +1,218 @@
+{
+    "faculty": [
+        {
+            "name": "Olga Baysal",
+            "role": "Associate Professor & Graduate Director (Recruitment and Admissions) & Interim Director for the Institute for Data Science",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/olgabaysal.png",
+            "links": [
+                {
+                    "type": "website",
+                    "link": "http://olgabaysal.com"
+                },
+                {
+                    "type": "email",
+                    "link": "olga.baysal@carleton.ca"
+                }
+            ]
+        }
+    ],
+    "currentGraduate": [
+        {
+            "name": "Geetika Sharma",
+            "program": "MCS-thesis, 2021-2022",
+            "school": "Carleton University",
+            "links": []
+        },
+        {
+            "name": "Rezwan Hassan Khan",
+            "program": "MCS-thesis Data Science, 2021-2022",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/Rezwan.jpg",
+            "links": []
+        },
+        {
+            "name": "Lakshmi Prasanna Kumar",
+            "program": "MCS-thesis, 2021-2022",
+            "school":"Carleton University",
+            "imgUrl": "/peopleData/photos/Lakshmi.jpg",
+            "links": []
+        },
+        {
+            "name": "Soroush Javdan",
+            "program": "PhD, 2021-2026",
+            "school": "Carleton University",
+            "links": []
+        },
+        {
+            "name": "Razieh Tekieh",
+            "program": "MCS-thesis, 2020-2021",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/Razieh.jpg",
+            "links": []
+        },
+        {
+            "name": "Sri Lakshmi Vadlamani",
+            "program": "MCS-thesis Data Science, 2019-2021",
+            "school": "Carleton University",
+            "links": []
+        },
+        {
+            "name": "Lance Wang",
+            "program": "MCS-thesis Data Science, 2019-2021",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/LanceWang.jpg",
+            "links": [
+                {
+                    "type":"website",
+                    "link":"https://lancewg.com/"
+                }
+            ]
+        }
+    ],
+    "currentUndergraduate": [
+        {
+            "name": "Adam Spriggs",
+            "program": "UG-project, Winter 2021",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/adamspriggs.jpg",
+            "links": []
+        },
+        {
+            "name": "Fadel Chamseddine",
+            "program": "UG-project, Winter 2021",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/FadelChamseddine.png",
+            "links": []
+        },
+        {
+            "name": "Yizhang Cao",
+            "program": "UG-project, Winter 2021",
+            "school": "Carleton University",
+            "imgUrl": "/peopleData/photos/yizhangcao.jpg",
+            "links": [
+                {
+                    "type": "website",
+                    "link": "https://tigerc.space"
+                },
+                {
+                    "type": "email",
+                    "link": "tigercao@cmail.carleton.ca"
+                },
+                {
+                    "type": "github",
+                    "link": "https://github.com/tigercao1"
+                }
+            ]
+        },
+        {
+            "name": "Askar Ilemessov",
+            "program": "UG-project, Winter 2021",
+            "school": "Carleton University",
+            "links": []
+        },
+        {
+            "name": "Komiljon Abdurahimov",
+            "program": "UG-project, Winter 2021",
+            "school":"Carleton University",
+            "links": []
+        },
+        {
+            "name": "Kurt Burton-Rowe",
+            "program": "UG-project, Winter 2021",
+            "school":"Carleton University",
+            "links": []
+        },
+        {
+            "name": "Sebastian Gadzinski",
+            "program": "UG-project, Winter 2021",
+            "school":"Carleton University",
+            "links": []
+        },
+        {
+            "name": "Richard Xia",
+            "program": "UG-project, Winter 2021",
+            "school":"Carleton University",
+            "links": []
+        }
+    ],
+    "alumni": [
+        {
+            "name": "Davoud Saljoughi",
+            "program": "MCS-thesis, 2020-2021",
+            "position": "Analyst/Data Specialist, Health Canada",
+            "links": []
+        },
+        {
+            "name": "Khadija Osman",
+            "program": "MCS-thesis Data Science, 2019-2020",
+            "position": "TBD",
+            "links": []
+        },
+        {
+            "name": "Boneetha Bose",
+            "program": "MCS-project, 2018-2020",
+            "position": "Analytics and Data Science Associate, TD Canada",
+            "links": []
+        },
+        {
+            "name": "Saraj Singh Manes",
+            "program": "MCS-thesis Data Science, 2018-2020",
+            "position": "Software Engineer, Hyperscience",
+            "links": []
+        },
+        {
+            "name": "Nobert Eke",
+            "program": "N/A",
+            "position": "Data Scientist, Health Canada",
+            "imgUrl": "/peopleData/photos/NobertEke.jpg",
+            "links": [
+                {
+                    "type":"website",
+                    "link":"https://norberte.github.io/"
+                }
+            ]
+        },
+        {
+            "name": "Raisul Islam Rashu",
+            "program": "MCS-thesis, 2018-2019",
+            "position": "TBD",
+            "links": []
+        },
+        {
+            "name": "Oleksii Kononenko",
+            "program": "PhD Student co-supervised with Mike Godfrey, University of Waterloo, Canada. 2016–2017",
+            "position": "Software Engineer, Microsoft, USA",
+            "links": []
+        },
+        {
+            "name": "Shruthi Nagaraj",
+            "program": "MCS-thesis, 2017-2018",
+            "position": "Senior Software Developer/Analyst, IBM Canada",
+            "links": []
+        },
+        {
+            "name": "Tresa Rose",
+            "program": "MCS-thesis, 2016-2017",
+            "position": "IM/IT Programmer at Employment and Social Development Canada",
+            "links": []
+        },
+        {
+            "name": "Tresa Rose",
+            "program": "MCS-thesis, 2016-2017",
+            "position": "Founder, OTIF Solutions, Pakistan",
+            "links": [
+                {
+                    "type":"website",
+                    "link":"https://junaidmaqsood.com/"
+                }
+            ]
+        },
+        {
+            "name": "Yaxin Cao",
+            "program": "MCS-thesis Student at Universite de Montreal. 2014–2015",
+            "position": "Product Manager at Jusfoun, China",
+            "links": []
+        }
+    ]
+}

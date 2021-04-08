@@ -1,0 +1,18 @@
+{
+    "summary": "Software practitioners make technical and business decisions based on their understanding of software projects. This understanding is grounded in their own experiences, but can be augmented by studying various kinds of software development artifacts, including source code, bug reports, version control meta-data, test cases, usage logs, etc. Unfortunately, the software development knowledge contained in these artifacts is typically not organized in the way that is immediately accessible from and useful to developers and stakeholders' decision making needs. To make easy handing the large amount of data faced when accessing development knowledge, software analytics - use of analysis, data, and systematic reasoning for making decisions - have been recently emerged as an emerging field of modern data analysis.",
+    "researchInterest": "Our research interests span a wide range of software engineering, including empirical software engineering, mining software repositories, data science, data analytics, software analytics, software maintenance and evolution, and human aspects of software engineering. Much of my work focuses on understanding how software engineers create, use and maintain software systems. We’re always looking for talented, motivated people to join us.",
+    "news": [
+        {
+            "date":"March 19, 2021",
+            "text": "Update"
+        },
+        {
+            "date": "March 11, 2021",
+            "text": "She had come to the conclusion that you could tell a lot about a person by their ears. The way they stuck out and the size of the earlobes could give you wonderful insights into the person. Of course, she couldn't scientifically prove any of this, but that didn't matter to her. Before anything else, she would size up the ears of the person she was talking to."
+        },
+        {
+            "date": "Feburary 2, 2021",
+            "text": "She had come to the conclusion that you could tell a lot about a person by their ears. The way they stuck out and the size of the earlobes could give you wonderful insights into the person. Of course, she couldn't scientifically prove any of this, but that didn't matter to her. Before anything else, she would size up the ears of the person she was talking to."
+        }
+    ]
+}
