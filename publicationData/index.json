@@ -4,7 +4,6 @@
         "authors": "Saraj Singh Manes and Olga Baysal",
         "conference": "In Proc. of the International conference on Mining Software Repositories (MSR), Madrid, Spain, May 17-19, 2021",
         "summary": "Stack Overflow is a popular Q&A forum for software developers, providing a large number of copyable codesnippets. While GitHub is a collaborative development platform,developers often reuse Stack Overflow code in their GitHubprojects. These snippets get revised or edited on each platform.In this work, we study Stack Overflow posts and the codesnippets that are reused from these posts in GitHub projects.We investigate and compare the change history of SO snippetswith the change history of GitHub snippets. We have applied astratified random sampling when mining 440,000 GitHub projectsto create a dataset representing the change history of the reusedsnippets; this dataset contains 22,900 GitHub projects, 33,765Stack Overflow references mapped to 4,634 Stack Overflow posts,and a total of 73,322 commits.We analyze the evolution patterns of snippets on each platform,compare key trends and explore the co-change of these snippets.Our results demonstrate that 76% of snippets evolve on StackOverflow, while only 22% of the reused code snippets evolvein GitHub. Stack Overflow snippets undergo fewer and sm",
-        "imageUrl": "/publications/images/image.png",
         "links": [
             {
                 "type": "pdf",
