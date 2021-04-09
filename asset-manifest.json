@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f833c788.chunk.css",
-    "main.js": "/static/js/main.087a72f4.chunk.js",
-    "main.js.map": "/static/js/main.087a72f4.chunk.js.map",
+    "main.css": "/static/css/main.19459453.chunk.css",
+    "main.js": "/static/js/main.2ec17ec1.chunk.js",
+    "main.js.map": "/static/js/main.2ec17ec1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86904b47.js",
     "runtime-main.js.map": "/static/js/runtime-main.86904b47.js.map",
-    "static/js/2.37aede17.chunk.js": "/static/js/2.37aede17.chunk.js",
-    "static/js/2.37aede17.chunk.js.map": "/static/js/2.37aede17.chunk.js.map",
+    "static/js/2.f5c33d58.chunk.js": "/static/js/2.f5c33d58.chunk.js",
+    "static/js/2.f5c33d58.chunk.js.map": "/static/js/2.f5c33d58.chunk.js.map",
     "static/js/3.fe8ab6ed.chunk.js": "/static/js/3.fe8ab6ed.chunk.js",
     "static/js/3.fe8ab6ed.chunk.js.map": "/static/js/3.fe8ab6ed.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f833c788.chunk.css.map": "/static/css/main.f833c788.chunk.css.map",
-    "static/js/2.37aede17.chunk.js.LICENSE.txt": "/static/js/2.37aede17.chunk.js.LICENSE.txt",
+    "static/css/main.19459453.chunk.css.map": "/static/css/main.19459453.chunk.css.map",
+    "static/js/2.f5c33d58.chunk.js.LICENSE.txt": "/static/js/2.f5c33d58.chunk.js.LICENSE.txt",
     "static/media/logo.a4722842.png": "/static/media/logo.a4722842.png",
     "static/media/Contact.scss": "/static/media/lounge.665ab6a5.JPG",
     "static/media/Home.scss": "/static/media/site-carleton.6b3e9c49.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.86904b47.js",
-    "static/js/2.37aede17.chunk.js",
-    "static/css/main.f833c788.chunk.css",
-    "static/js/main.087a72f4.chunk.js"
+    "static/js/2.f5c33d58.chunk.js",
+    "static/css/main.19459453.chunk.css",
+    "static/js/main.2ec17ec1.chunk.js"
   ]
 }

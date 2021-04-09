@@ -12,15 +12,15 @@ Modifiable lab summary and research interest. Also latest lab news.
 
 **Usage**
 
-- To modify the summary and research interest, simply update the fields text under `/public/pageData/homePageData.json`.
+- To modify the summary and research interest, simply update the fields text under `/pageData/homePageData.json`.
 
-- To update the news, insert a news object at the beginning of the `news` array under `/public/pageData/homePageData.json`.
+- To update the news, insert a news object at the beginning of the `news` array under `/pageData/homePageData.json`.
 
 - Commit your changes and submit a pull request
 
 **Directories**
 
-    /public/pageData/homePageData.json
+    /pageData/homePageData.json
 
 **Fields**
 
@@ -50,7 +50,7 @@ Faculty members, current graduate students, undergraduate students and alumnis o
 
 **Usage**
 
-1. Upload the photos to `/public/peopleData/photos`.
+1. Upload the photos to `/peopleData/photos`.
 
 2. Append information following the structure shown below to `index.json` file.
 
@@ -58,8 +58,8 @@ Faculty members, current graduate students, undergraduate students and alumnis o
 
 **Diretories**
 
-    /public/peopleData/index.json
-    /public/peopleData/photos/
+    /peopleData/index.json
+    /peopleData/photos/
 
 **Fields**
 
@@ -183,18 +183,20 @@ Publications affiliated with the lab.
 
 **Usage**
 
-1. Upload the publication to `/public/publications/<folder>/`.
+1. Upload the publication to `/publications/<folder>/`.
 
-2. Append information following the structure shown below to `index.json` file.
+2. Upload a cover picture to `/publications/images/`.
 
-3. Commit your changes and submit a pull request.
+3. Append information following the structure shown below to `index.json` file.
+
+4. Commit your changes and submit a pull request.
 
 **Directories**
 
-    /public/publications/index.json
-    /public/publications/pdfs/
-    /public/publications/slides/
-    /public/publications/<folder>/
+    /publications/index.json
+    /publications/pdfs/
+    /publications/slides/
+    /publications/<folder>/
 
 `<folder>` can be any common types of the file groups for publications. pdfs and slides can be uploaded directly to existing folders.
 
