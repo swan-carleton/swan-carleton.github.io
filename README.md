@@ -6,6 +6,26 @@ Running on [swan-carleton.github.io](swan-carleton.github.io).
 
 Almost all of the content of the page can be managed after deployment by modifying the `.json` files in the public repository.
 
+### **Steps to modify the data mentioned below**
+
+1. Clone the repository
+
+        git clone https://github.com/swan-carleton/swan-carleton.github.io.git
+
+2. Create a new branch for your changes
+
+        git checkout -b <branch-name>
+
+2. Modify the data you desire following the file structures and instructions below
+
+3. Commit and push your changes. E.g.
+
+        git commit -m "<your message>"
+
+        git push -u origin <branch-name>
+
+5. Submit a pull request your changes to be reviewed and merged.
+
 ### **Page Data**
 
 Modifiable lab summary and research interest. Also latest lab news.
