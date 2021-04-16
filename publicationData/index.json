@@ -7,7 +7,7 @@
         "links": [
             {
                 "type": "pdf",
-                "link": "/publications/pdfs/Manes_MSR2021.pdf"
+                "link": "/publicationData/pdfs/Manes_MSR2021.pdf"
             }
         ]
     },
@@ -18,7 +18,7 @@
         "links": [
             {
                 "type": "pdf",
-                "link": "/publications/pdfs/Vadlamani_SERIP2021.pdf"
+                "link": "/publicationData/pdfs/Vadlamani_SERIP2021.pdf"
             }
         ]
     },
@@ -29,7 +29,7 @@
         "links": [
             {
                 "type": "pdf",
-                "link": "/publications/pdfs/Osman_SoHeal2021.pdf"
+                "link": "/publicationData/pdfs/Osman_SoHeal2021.pdf"
             }
         ]
     },
@@ -40,7 +40,7 @@
         "links": [
             {
                 "type": "pdf",
-                "link": "/publications/pdfs/Baysal_FSE2014.pdf"
+                "link": "/publicationData/pdfs/Baysal_FSE2014.pdf"
             }
         ]
     }
